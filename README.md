@@ -11,22 +11,22 @@ not sure if this kind of list exists anywhere but I could not find one
 - Reachy [Website](https://www.pollen-robotics.com/reachy/)
 - ASPIR [GitHub](https://github.com/Choitek/ASPIR-3D-Print-Files-V1) | [Website](https://www.instructables.com/ASPIR-Full-Size-3D-Printed-Humanoid-Robot/)
 - OpenCat [GitHub](https://github.com/PetoiCamp/NonCodeFiles) | [GitHub](https://github.com/PetoiCamp/OpenCat)
-- The Dingo https://github.com/Yerbert/DingoQuadruped
-- Pupper https://pupper.readthedocs.io/en/latest/ https://drive.google.com/file/d/1NzR0NcP0DdmNDBfc23uyoVpybuapZseN/view 3d files https://www.thingiverse.com/thing:4362700
-- Spot Micro https://github.com/mike4192/spotMicro
-- SMARS https://cults3d.com/en/3d-model/gadget/smars-modular-robot
-- SMARS Zero https://www.thingiverse.com/thing:2727285
-- SMARS - 28BYJ-48 https://www.thingiverse.com/thing:2778904
-- OTTO meets SMARS https://www.thingiverse.com/thing:2818362
-- Otto https://www.ottodiy.com/ https://www.thingiverse.com/thing:1568652
-- Otto DIY+ Arduino Bluetooth robot easy to 3Dprint https://www.thingiverse.com/thing:2398231
-- Otto DIY++ all in one https://www.thingiverse.com/thing:2731596
-- Tito biped robot https://www.thingiverse.com/thing:1378605
-- Bolo DIY https://www.thingiverse.com/thing:2466892
-- Zowi DIY build your own robot with Arduino https://www.thingiverse.com/thing:2775007
-- CYNO01 Arduino Robot walker https://www.thingiverse.com/thing:2077834
-- Poppy https://www.poppy-project.org/en/  https://github.com/poppy-project/Poppy-Humanoid https://www.thingiverse.com/thing:994690
-- Poppy Humanoid https://www.thingiverse.com/thing:2280067
+- The Dingo [GitHub](https://github.com/Yerbert/DingoQuadruped)
+- Pupper [Website](https://pupper.readthedocs.io/en/latest/) | [Google Drive](https://drive.google.com/file/d/1NzR0NcP0DdmNDBfc23uyoVpybuapZseN/view) 3d files | [Thingverse](https://www.thingiverse.com/thing:4362700)
+- Spot Micro [Github](https://github.com/mike4192/spotMicro)
+- SMARS [Website](https://cults3d.com/en/3d-model/gadget/smars-modular-robot)
+- SMARS Zero [Thingverse](https://www.thingiverse.com/thing:2727285)
+- SMARS - 28BYJ-48 [Thingverse](https://www.thingiverse.com/thing:2778904)
+- OTTO meets SMARS [Thingverse](https://www.thingiverse.com/thing:2818362)
+- Otto https://www.ottodiy.com/ [Thingverse](https://www.thingiverse.com/thing:1568652)
+- Otto DIY+ Arduino Bluetooth robot easy to 3Dprint [Thingverse](https://www.thingiverse.com/thing:2398231)
+- Otto DIY++ all in one [Thingverse](https://www.thingiverse.com/thing:2731596)
+- Tito biped robot [Thingverse](https://www.thingiverse.com/thing:1378605)
+- Bolo DIY [Thingverse](https://www.thingiverse.com/thing:2466892)
+- Zowi DIY build your own robot with Arduino [Thingverse](https://www.thingiverse.com/thing:2775007)
+- CYNO01 Arduino Robot walker [Thingverse](https://www.thingiverse.com/thing:2077834)
+- Poppy [Website](https://www.poppy-project.org/en/) | [Github](https://github.com/poppy-project/Poppy-Humanoid) | [Thingverse](https://www.thingiverse.com/thing:994690)
+- Poppy Humanoid [Thingverse](https://www.thingiverse.com/thing:2280067)
 - Ergo Jr https://www.poppy-project.org/en/robots/poppy-ergo-jr/
 - Open Dog V3 https://github.com/XRobots/openDogV3
 - RoboPrime humanoid project https://github.com/simonepri/roboprime
