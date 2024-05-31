@@ -1,71 +1,77 @@
 # WORK IN PROGRESS
 not sure if this kind of list exists anywhere but I could not find one
+
+
 ## Awesome 3D Printable Robots Projects
-- InMoov http://inmoov.fr/ https://www.thingiverse.com/gael_langevin/collections/19524/things
-- Reachy https://www.pollen-robotics.com/reachy/
-- ASPIR https://github.com/Choitek/ASPIR-3D-Print-Files-V1  https://www.instructables.com/ASPIR-Full-Size-3D-Printed-Humanoid-Robot/
-OpenCat  https://github.com/PetoiCamp/NonCodeFiles https://github.com/PetoiCamp/OpenCat
-The Dingo https://github.com/Yerbert/DingoQuadruped
-Pupper https://pupper.readthedocs.io/en/latest/ https://drive.google.com/file/d/1NzR0NcP0DdmNDBfc23uyoVpybuapZseN/view 3d files https://www.thingiverse.com/thing:4362700
-Spot Micro https://github.com/mike4192/spotMicro
-SMARS https://cults3d.com/en/3d-model/gadget/smars-modular-robot
-SMARS Zero https://www.thingiverse.com/thing:2727285
-SMARS - 28BYJ-48 https://www.thingiverse.com/thing:2778904
-OTTO meets SMARS https://www.thingiverse.com/thing:2818362
-Otto https://www.ottodiy.com/ https://www.thingiverse.com/thing:1568652
-Otto DIY+ Arduino Bluetooth robot easy to 3Dprint https://www.thingiverse.com/thing:2398231
-Otto DIY++ all in one https://www.thingiverse.com/thing:2731596
-Tito biped robot https://www.thingiverse.com/thing:1378605
-Bolo DIY https://www.thingiverse.com/thing:2466892
-Zowi DIY build your own robot with Arduino https://www.thingiverse.com/thing:2775007
-CYNO01 Arduino Robot walker https://www.thingiverse.com/thing:2077834
-Poppy https://www.poppy-project.org/en/  https://github.com/poppy-project/Poppy-Humanoid https://www.thingiverse.com/thing:994690
-Poppy Humanoid https://www.thingiverse.com/thing:2280067
-Ergo Jr https://www.poppy-project.org/en/robots/poppy-ergo-jr/
-Open Dog V3 https://github.com/XRobots/openDogV3
-RoboPrime humanoid project https://github.com/simonepri/roboprime
-BCN3D MOVEO https://www.thingiverse.com/thing:1693444
-Vorpal The Hexapod Walking Robot https://www.thingiverse.com/thing:2513566
-Spider robot(quad robot, quadruped) https://www.thingiverse.com/thing:1009659
-Micro Robot arm https://www.thingiverse.com/thing:34829
-Spotmicro - robot dog https://www.thingiverse.com/thing:3445283
-Remotely controlled - Arduino Self balancing robot https://www.thingiverse.com/thing:2306541
-Kame: 8DOF small quadruped robot https://www.thingiverse.com/thing:1265766
-EEZYbotARM MK2 https://www.thingiverse.com/thing:1454048
-MeArm V0.4 - Pocket Sized Robot Arm https://www.thingiverse.com/thing:360108
-Mini Quadruped - optimized for 9G servos https://www.thingiverse.com/thing:38159
-Pi Butter Bot https://www.thingiverse.com/thing:5352882
-B-robot EVO https://www.thingiverse.com/thing:1069256
-ZeroBot Pro - Raspberry FPV Robot https://www.thingiverse.com/thing:2800717
-ZeroBot - Raspberry Pi Zero FPV Robot https://www.thingiverse.com/thing:2352440
-MiniSkybot Robot V1.0 https://www.thingiverse.com/thing:7989
-Max The Megapod (Large Walking Robot) https://www.thingiverse.com/thing:3075149
-Minion https://www.thingiverse.com/thing:25470
-Arduped Biped Robot https://www.thingiverse.com/thing:19594
-Q1 mini Quadruped Robot 2.0 https://www.thingiverse.com/thing:2311678
-Traxbot - an EZ-robot build https://www.thingiverse.com/thing:114349
-HEXRO - 12-servo-motors hexapod robot https://www.thingiverse.com/thing:1021540
-Mantis Walker Robot https://www.thingiverse.com/thing:1828535
-3D Printed Robot Dog https://www.thingiverse.com/thing:5403752
-SCRU-FE: Simple C++ Robot with Ultra-sonic Sensor for Education: Arduino UNO Obstac https://www.thingiverse.com/thing:780050
-Autonomous-Webserved-Tanktrack-Robot https://www.thingiverse.com/thing:597267
-LDR Little Robot https://www.thingiverse.com/thing:3506189
-Robot arduino 3D print https://www.thingiverse.com/thing:1582398
-SketchUp Mini Sumo Robot https://www.thingiverse.com/thing:29827
-Hexapod Robot https://www.thingiverse.com/thing:3463845
-Martian rover https://www.thingiverse.com/thing:1318414
-two wheel Robot https://www.thingiverse.com/thing:1230244
-DIY Vacuum Robot https://www.thingiverse.com/thing:2288841
-sci-fi hexapod robot https://www.thingiverse.com/thing:5029213
-Open Source Robotic Arm (Lite Arm i2) https://www.thingiverse.com/thing:480446
-Stepper robot arm https://www.thingiverse.com/thing:970881
-Robot Bob https://www.thingiverse.com/thing:371158
-ProtoTank https://www.thingiverse.com/thing:972768
-EEZYbotArm MK3 https://www.thingiverse.com/thing:2838859
-Arduino Robot Tank https://www.thingiverse.com/thing:2039843
-APC - 1 (Search and rescue walking robot) https://www.thingiverse.com/thing:4674598
-Spider robot(quad robot, quadruped)-MG90 https://www.thingiverse.com/thing:2204279
-printed Micro-Hexapod https://www.thingiverse.com/thing:5156
+
+### Walking Robots
+
+#### Biped Legs
+- InMoov [Website]http://inmoov.fr/ | [Thingverse](https://www.thingiverse.com/gael_langevin/collections/19524/things)
+- Reachy [Website](https://www.pollen-robotics.com/reachy/)
+- ASPIR [GitHub](https://github.com/Choitek/ASPIR-3D-Print-Files-V1) | [Website](https://www.instructables.com/ASPIR-Full-Size-3D-Printed-Humanoid-Robot/)
+- OpenCat  https://github.com/PetoiCamp/NonCodeFiles https://github.com/PetoiCamp/OpenCat
+- The Dingo https://github.com/Yerbert/DingoQuadruped
+- Pupper https://pupper.readthedocs.io/en/latest/ https://drive.google.com/file/d/1NzR0NcP0DdmNDBfc23uyoVpybuapZseN/view 3d files https://www.thingiverse.com/thing:4362700
+- Spot Micro https://github.com/mike4192/spotMicro
+- SMARS https://cults3d.com/en/3d-model/gadget/smars-modular-robot
+- SMARS Zero https://www.thingiverse.com/thing:2727285
+- SMARS - 28BYJ-48 https://www.thingiverse.com/thing:2778904
+- OTTO meets SMARS https://www.thingiverse.com/thing:2818362
+- Otto https://www.ottodiy.com/ https://www.thingiverse.com/thing:1568652
+- Otto DIY+ Arduino Bluetooth robot easy to 3Dprint https://www.thingiverse.com/thing:2398231
+- Otto DIY++ all in one https://www.thingiverse.com/thing:2731596
+- Tito biped robot https://www.thingiverse.com/thing:1378605
+- Bolo DIY https://www.thingiverse.com/thing:2466892
+- Zowi DIY build your own robot with Arduino https://www.thingiverse.com/thing:2775007
+- CYNO01 Arduino Robot walker https://www.thingiverse.com/thing:2077834
+- Poppy https://www.poppy-project.org/en/  https://github.com/poppy-project/Poppy-Humanoid https://www.thingiverse.com/thing:994690
+- Poppy Humanoid https://www.thingiverse.com/thing:2280067
+- Ergo Jr https://www.poppy-project.org/en/robots/poppy-ergo-jr/
+- Open Dog V3 https://github.com/XRobots/openDogV3
+- RoboPrime humanoid project https://github.com/simonepri/roboprime
+- BCN3D MOVEO https://www.thingiverse.com/thing:1693444
+- Vorpal The Hexapod Walking Robot https://www.thingiverse.com/thing:2513566
+- Spider robot(quad robot, quadruped) https://www.thingiverse.com/thing:1009659
+- Micro Robot arm https://www.thingiverse.com/thing:34829
+- Spotmicro - robot dog https://www.thingiverse.com/thing:3445283
+- Remotely controlled - Arduino Self balancing robot https://www.thingiverse.com/thing:2306541
+- Kame: 8DOF small quadruped robot https://www.thingiverse.com/thing:1265766
+- EEZYbotARM MK2 https://www.thingiverse.com/thing:1454048
+- MeArm V0.4 - Pocket Sized Robot Arm https://www.thingiverse.com/thing:360108
+- Mini Quadruped - optimized for 9G servos https://www.thingiverse.com/thing:38159
+- Pi Butter Bot https://www.thingiverse.com/thing:5352882
+- B-robot EVO https://www.thingiverse.com/thing:1069256
+- ZeroBot Pro - Raspberry FPV Robot https://www.thingiverse.com/thing:2800717
+- ZeroBot - Raspberry Pi Zero FPV Robot https://www.thingiverse.com/thing:2352440
+- MiniSkybot Robot V1.0 https://www.thingiverse.com/thing:7989
+- Max The Megapod (Large Walking Robot) https://www.thingiverse.com/thing:3075149
+- Minion https://www.thingiverse.com/thing:25470
+- Arduped Biped Robot https://www.thingiverse.com/thing:19594
+- Q1 mini Quadruped Robot 2.0 https://www.thingiverse.com/thing:2311678
+- Traxbot - an EZ-robot build https://www.thingiverse.com/thing:114349
+- HEXRO - 12-servo-motors hexapod robot https://www.thingiverse.com/thing:1021540
+- Mantis Walker Robot https://www.thingiverse.com/thing:1828535
+- 3D Printed Robot Dog https://www.thingiverse.com/thing:5403752
+- SCRU-FE: Simple C++ Robot with Ultra-sonic Sensor for Education: Arduino UNO Obstac https://www.thingiverse.com/thing:780050
+- Autonomous-Webserved-Tanktrack-Robot https://www.thingiverse.com/thing:597267
+- LDR Little Robot https://www.thingiverse.com/thing:3506189
+- Robot arduino 3D print https://www.thingiverse.com/thing:1582398
+- SketchUp Mini Sumo Robot https://www.thingiverse.com/thing:29827
+- Hexapod Robot https://www.thingiverse.com/thing:3463845
+- Martian rover https://www.thingiverse.com/thing:1318414
+- two wheel Robot https://www.thingiverse.com/thing:1230244
+- DIY Vacuum Robot https://www.thingiverse.com/thing:2288841
+- sci-fi hexapod robot https://www.thingiverse.com/thing:5029213
+- Open Source Robotic Arm (Lite Arm i2) https://www.thingiverse.com/thing:480446
+- Stepper robot arm https://www.thingiverse.com/thing:970881
+- Robot Bob https://www.thingiverse.com/thing:371158
+- ProtoTank https://www.thingiverse.com/thing:972768
+- EEZYbotArm MK3 https://www.thingiverse.com/thing:2838859
+- Arduino Robot Tank https://www.thingiverse.com/thing:2039843
+- APC - 1 (Search and rescue walking robot) https://www.thingiverse.com/thing:4674598
+- Spider robot(quad robot, quadruped)-MG90 https://www.thingiverse.com/thing:2204279
+- printed Micro-Hexapod https://www.thingiverse.com/thing:5156
 Alien android arduino robot https://www.thingiverse.com/thing:1039101
 Joy Robot (Robô Da Alegria)  https://www.thingiverse.com/thing:2765192
 AT-AS quadruped (or hexapod) robot https://www.thingiverse.com/thing:30088
@@ -342,7 +348,7 @@ EDUino DIY hexapod arduino robot https://www.thingiverse.com/thing:2791074
 ## multi wheeled
 
 
-## ardino
+## arduino 
 ### nano
 
 ## raspberry pi
