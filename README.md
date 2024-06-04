@@ -119,7 +119,7 @@ not sure if this kind of list exists anywhere but I could not find one
 - Scout - A printable tribot frame https://www.thingiverse.com/thing:13042
 - DIY Arduino Metal Detector Robot https://www.thingiverse.com/thing:4415394
 - Hadron, humanoid biped robot kit https://www.thingiverse.com/thing:356398
-- Momy-Desk-Robot https://www.thingiverse.com/thing:6337873 https://github.com/momysnow/Momy-Desk-Robot <- trying this first
+- Momy-Desk-Robot [Thingiverse](https://www.thingiverse.com/thing:6337873) | [github](https://github.com/momysnow/Momy-Desk-Robot) <- trying this first
 - MiniPlan v5.0 https://www.thingiverse.com/thing:1016479
 - Spider robot(quad robot, quadruped) https://www.thingiverse.com/thing:1905784
 - Q1 lite Simple Quadruped Robot (Designed by Jason Workshop) https://www.thingiverse.com/thing:2732957
