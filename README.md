@@ -9,6 +9,7 @@ not sure if this kind of list exists anywhere but I could not find one
 - Momy-Desk-Robot [Thingiverse](https://www.thingiverse.com/thing:6337873) | [GitHub](https://github.com/momysnow/Momy-Desk-Robot)
 - OpenCat Nybble DIY [Thingiverse](https://www.thingiverse.com/thing:4015171) | [GitHub](https://github.com/PetoiCamp)
 - xpider spartan zero [Thingiverse](https://www.thingiverse.com/thing:2156072)
+- Otto [Website](https://www.ottodiy.com/) | [Thingverse](https://www.thingiverse.com/thing:1568652)
 
 ### Walking Robots
 
@@ -24,7 +25,6 @@ not sure if this kind of list exists anywhere but I could not find one
 - SMARS Zero [Thingverse](https://www.thingiverse.com/thing:2727285)
 - SMARS - 28BYJ-48 [Thingverse](https://www.thingiverse.com/thing:2778904)
 - OTTO meets SMARS [Thingverse](https://www.thingiverse.com/thing:2818362)
-- Otto https://www.ottodiy.com/ [Thingverse](https://www.thingiverse.com/thing:1568652)
 - Otto DIY+ Arduino Bluetooth robot easy to 3Dprint [Thingverse](https://www.thingiverse.com/thing:2398231)
 - Otto DIY++ all in one [Thingverse](https://www.thingiverse.com/thing:2731596)
 - Tito biped robot [Thingverse](https://www.thingiverse.com/thing:1378605)
