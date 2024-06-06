@@ -8,7 +8,7 @@ not sure if this kind of list exists anywhere but I could not find one
 - Cozmars v2 (open cozmo) [Thingiverse](https://www.thingiverse.com/thing:4910801) | [GitHub](https://github.com/r-cute)
 - Momy-Desk-Robot [Thingiverse](https://www.thingiverse.com/thing:6337873) | [GitHub](https://github.com/momysnow/Momy-Desk-Robot)
 - OpenCat Nybble DIY [Thingiverse](https://www.thingiverse.com/thing:4015171) | [GitHub](https://github.com/PetoiCamp)
-
+- xpider spartan zero [Thingiverse](https://www.thingiverse.com/thing:2156072)
 
 ### Walking Robots
 
