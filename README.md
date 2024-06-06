@@ -10,6 +10,7 @@ not sure if this kind of list exists anywhere but I could not find one
 - OpenCat Nybble DIY [Thingiverse](https://www.thingiverse.com/thing:4015171) | [GitHub](https://github.com/PetoiCamp)
 - xpider spartan zero [Thingiverse](https://www.thingiverse.com/thing:2156072)
 - Otto [Website](https://www.ottodiy.com/) | [Thingverse](https://www.thingiverse.com/thing:1568652)
+- HP Robots | Otto Starter [Printables](https://www.printables.com/model/829419-hp-robots-otto-starter)
 
 ### Walking Robots
 
